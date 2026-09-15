@@ -26,3 +26,7 @@ Copy the Menyoo.asi file along with the menyooStuff folder to the Grand Theft Au
 
 ## Download
 Compiled binaries at [releases](https://github.com/pol-sox/MenyooSP/releases).
+
+## License
+The majority of the source code is licensed under the [GNU GPL v3](LICENSE.txt) license.
+Source content taken from other projects is tagged with the respective license(s) wherever found.
